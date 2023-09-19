@@ -1,3 +1,9 @@
 ### Manual adding ###
-*.xml
-*.iml
+# **/  <-wildcard for all subfolders
+
+## IDEA ##
+**/*.xml
+**/*.iml
+
+## VSC ##
+**/*.class
