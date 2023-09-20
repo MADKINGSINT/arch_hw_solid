@@ -4,6 +4,14 @@
 ## IDEA ##
 **/*.xml
 **/*.iml
+**/*.ipr
+
+**/.idea/**/*.*
+**/target/**/*.*
+**/.gitignore
+**/pom.xml
+**/src/test/**/*.*
+
 
 ## VSC ##
 **/*.class
