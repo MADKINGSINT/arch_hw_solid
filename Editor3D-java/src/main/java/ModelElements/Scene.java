@@ -34,8 +34,8 @@ public class Scene {
         return result;
     }
 
-    public <Type> Type method2(Type typeValue1, Type typeValue2){
-        Type result = null;
+    public <Type1, Type2> Type1 method2(Type1 type1Value1, Type2 type2Value2){
+        Type1 result = null;
         return result;
     }
 
