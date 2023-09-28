@@ -106,7 +106,7 @@ public abstract class Car {
         this.engineCap = engineCap;
     }
 
-    public boolean trnWrps(){
+    public boolean trnWrappers(){
         return true;
     }
 }

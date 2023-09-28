@@ -2,5 +2,6 @@ package Enumerators;
 
 public enum TypeCar {
     SEDAN,
-    PICKUP
+    PICKUP,
+    SPECIAL_ROAD_CLEANER
 }
