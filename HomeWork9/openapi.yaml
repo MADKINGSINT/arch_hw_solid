@@ -85,7 +85,7 @@ paths:
       summary: Метод удаления заказа из облака по ID
       tags:
         - Clouds
-      operationId: getCloudById
+      operationId: deleteCloudById
       parameters:
         - name: cloud_id
           in: path
